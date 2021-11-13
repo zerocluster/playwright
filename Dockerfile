@@ -3,7 +3,7 @@ FROM zerocluster/node
 HEALTHCHECK NONE
 
 RUN \
-    dnf -y install google-chrome-stable \
+    apt -y install google-chrome-stable \
     \
     # install deps
     && npm i --omit=dev \
