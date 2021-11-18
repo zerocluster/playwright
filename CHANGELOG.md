@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.6 (2021-11-18)
+
+Fixes:
+
+-   fix: dockerfile
+
 ### 1.1.5 (2021-11-16)
 
 Fixes:
