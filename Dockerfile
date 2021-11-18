@@ -3,8 +3,7 @@ FROM zerocluster/node
 HEALTHCHECK NONE
 
 RUN \
-    apt update \
-    && DEBIAN_FRONTEND=noninteractive apt install -y ttf-mscorefonts-installer google-chrome-stable \
+    apt update && apt install -y ttf-mscorefonts-installer google-chrome-stable \
     \
     # install deps
     && npm i --omit=dev \
