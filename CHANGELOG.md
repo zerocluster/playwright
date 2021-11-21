@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.7 (2021-11-21)
+
+Fixes:
+
+-   fix: scripts
+
 ### 1.1.6 (2021-11-18)
 
 Fixes:
