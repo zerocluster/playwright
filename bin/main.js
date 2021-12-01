@@ -14,4 +14,4 @@ await playwright.chromium.launchServer( {
     "handleSIGTERM": true,
 } );
 
-console.log( "Chromium: ws://0.0.0.0:" + CHROME_PORT + CHROME_PATH );
+console.log( "Chrome: ws://0.0.0.0:" + CHROME_PORT + CHROME_PATH );
