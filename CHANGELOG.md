@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.8 (2021-12-01)
+
+Fixes:
+
+-   fix: log message
+
 ### 1.1.7 (2021-11-21)
 
 Fixes:
