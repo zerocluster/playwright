@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.9 (2021-12-12)
+
+Fixes:
+
+-   fix: docker healthcheck
+
 ### 1.1.8 (2021-12-01)
 
 Fixes:
