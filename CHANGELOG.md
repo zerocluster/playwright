@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.10 (2021-12-12)
+
+Fixes:
+
+-   fix: mount rpc to /api
+
 ### 1.1.9 (2021-12-12)
 
 Fixes:
