@@ -3,7 +3,7 @@
 import playwright from "@softvisio/playwright";
 
 const CHROME_PORT = 80;
-const CHROME_PATH = "/";
+const CHROME_PATH = "/chrome";
 
 await playwright.chromium.launchServer( {
     "headless": true,
