@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.14 (2022-02-11)
+
+Fixes:
+
+-   fix: migrated to app
+
 ### 1.1.13 (2022-02-08)
 
 Fixes:
