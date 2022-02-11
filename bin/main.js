@@ -1,17 +1,11 @@
 #!/usr/bin/env node
 
-import playwright from "@softvisio/playwright";
+import App from "#lib/app";
 
-const CHROME_PORT = 80;
-const CHROME_PATH = "/chrome";
+await App.Cli.parse( App );
 
-await playwright.chromium.launchServer( {
-    "headless": true,
-    "port": CHROME_PORT,
-    "wsPath": CHROME_PATH,
-    "handleSIGHUP": true,
-    "handleSIGINT": true,
-    "handleSIGTERM": true,
-} );
+const app = new App();
 
-console.log( "Chrome: ws://0.0.0.0:" + CHROME_PORT + CHROME_PATH );
+const res = await app.run();
+
+if ( !res.ok ) process.exit( 1 );
