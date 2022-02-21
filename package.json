@@ -7,16 +7,16 @@
         "zerocluster",
         "playwright"
     ],
-    "homepage": "https://github.com/zerocluster/playwright",
+    "homepage": "https://zerocluster.github.io/playwright/",
     "bugs": {
         "url": "https://github.com/zerocluster/playwright/issues",
-        "email": "zdm@softvisio.net"
+        "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/zerocluster/playwright.git"
     },
-    "license": "ISC",
+    "license": "Proprietary Software",
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "imports": {
