@@ -7,7 +7,7 @@ version: "3.9"
 
 services:
   playwright:
-    image: zerocluster/playwright
+    image: ghcr.io/zerocluster/playwright
     init: true
     stop_grace_period: 5m
 
