@@ -1,6 +1,6 @@
 FROM ghcr.io/zerocluster/node
 
-LABEL org.opencontainers.image.source https://github.com/zerocluster/playwright
+LABEL org.opencontainers.image.source="https://github.com/zerocluster/playwright"
 
 RUN \
     apt update && apt install -y ttf-mscorefonts-installer google-chrome-stable \
