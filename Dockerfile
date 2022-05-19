@@ -1,7 +1,7 @@
 FROM ghcr.io/zerocluster/node
 
 RUN \
-    apt update && apt install -y ttf-mscorefonts-installer google-chrome-stable \
+    apt-get update && apt-get install -y ttf-mscorefonts-installer google-chrome-stable \
     \
     # install deps
     && npm i --omit=dev \
