@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.26 (2022-12-23)
+
+Fixes:
+
+-   fix: app refactored
+
 ### 1.1.25 (2022-09-14)
 
 Fixes:
