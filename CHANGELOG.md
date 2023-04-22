@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.28 (2023-04-22)
+
+Fixes:
+
+-   fix: app main script
+
 ### 1.1.27 (2023-01-24)
 
 Fixes:
