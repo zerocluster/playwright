@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.1.29 (2023-05-29)
+
+Fixes:
+
+-   fix: components
+-   fix: docker stack schema
+
 ### 1.1.28 (2023-04-22)
 
 Fixes:
