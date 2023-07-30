@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.8 (2023-07-30)
+
+Fixes:
+
+-   fix: .dockerignore
+
 ### 1.2.7 (2023-07-29)
 
 Fixes:
