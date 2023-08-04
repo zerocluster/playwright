@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.10 (2023-08-04)
+
+Fixes:
+
+-   fix: docker entrypoint
+
 ### 1.2.9 (2023-07-31)
 
 Fixes:
