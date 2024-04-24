@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.15 (2024-04-24)
+
+Fixes:
+
+-   fix: cli config docker schema
+
 ### 1.2.14 (2024-04-15)
 
 Fixes:
