@@ -5,4 +5,6 @@ services: ~
 
 components: ~
 
-config: ~
+config:
+  port: 80
+  chromePath: /chrome
