@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.18 (2024-06-29)
+
+Fixes:
+
+-   fix: app config
+
 ### 1.2.17 (2024-06-04)
 
 Fixes:
