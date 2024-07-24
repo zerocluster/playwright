@@ -3,8 +3,6 @@
 # NOTE deploy
 # docker stack deploy --with-registry-auth -c docker-stack.yaml playwright
 
-version: "3.9"
-
 services:
   playwright:
     image: ghcr.io/zerocluster/playwright
