@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.19 (2024-07-24)
+
+Fixes:
+
+-   fix: stack network
+
 ### 1.2.18 (2024-06-29)
 
 Fixes:
