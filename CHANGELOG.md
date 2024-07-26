@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.2.21 (2024-07-26)
+
+Fixes:
+
+-   fix: deps
+-   fix: package lock added
+
 ### 1.2.20 (2024-07-24)
 
 Fixes:
