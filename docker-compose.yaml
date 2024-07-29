@@ -1,8 +1,3 @@
-#!/usr/bin/env -S docker stack deploy --with-registry-auth playwright -c
-
-# NOTE deploy
-# docker stack deploy --with-registry-auth -c docker-stack.yaml playwright
-
 services:
   playwright:
     image: ghcr.io/zerocluster/playwright
@@ -24,6 +19,4 @@ services:
     build: .
 
 networks:
-  network:
-    name: ${DOCKER_STACK_NETWORK_NAME:-main}
-    external: true
+  network: ~
