@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.25 (2024-08-01)
+
+Fixes:
+
+-   fix: docker-compose renamed to compose.yaml
+
 ### 1.2.24 (2024-08-01)
 
 Fixes:
