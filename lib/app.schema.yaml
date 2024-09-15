@@ -10,7 +10,7 @@
 - $id: config
   type: object
   properties:
-    port: { type: integer, format: ip-port }
+    port: { type: integer, format: ip-port, minimum: 1 }
     chromePath: { type: string, format: kebab-case-absolute-file-path }
 
   additionalProperties: false
