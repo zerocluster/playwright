@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.37 (2024-09-15)
+
+Fixes:
+
+-   fix: ajv ip-port format
+
 ### 1.2.36 (2024-09-15)
 
 No notable changes since the previous release.
