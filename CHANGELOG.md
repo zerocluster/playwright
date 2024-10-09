@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.41 (2024-10-09)
+
+Fixes:
+
+-   fix: dependabot
+
 ### 1.2.40 (2024-10-02)
 
 No notable changes since the previous release.
