@@ -5,9 +5,5 @@
 ## Install
 
 ```shell
-npm i @zerocluster/playwright
+npm install @zerocluster/playwright
 ```
-
-## Usage
-
-<!-- Tell about how to use the project, give code examples -->
