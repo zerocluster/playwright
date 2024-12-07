@@ -1,10 +1,10 @@
 dependencies:
-  - "@softvisio/core"
+    - "@softvisio/core"
 
 services: ~
 
 components: ~
 
 config:
-  port: 80
-  chromePath: /chrome
+    port: 80
+    chromePath: /chrome
