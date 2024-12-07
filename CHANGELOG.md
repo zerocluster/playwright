@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.2.51 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+- chore: update package dependencies
+
+[Compare with the previous release: v1.2.50 ... v1.2.51](https://github.com/zerocluster/playwright/compare/v1.2.50...v1.2.51)
+
 ### 1.2.50 (2024-12-06)
 
 Other changes:
