@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.2.58 (2025-01-10)
+
+Other changes:
+
+- chore: refactor browser
+- chore: update package dependencies
+
+[Compare with the previous release: v1.2.57...v1.2.58](https://github.com/zerocluster/playwright/compare/v1.2.57...v1.2.58)
+
 ### 1.2.57 (2025-01-08)
 
 Other changes:
