@@ -1,8 +1,6 @@
 FROM ghcr.io/zerocluster/node/app
 
 RUN \
-    apt-get update \
-    \
     # install dependencies
     && NODE_ENV=production npm install-clean \
     \
