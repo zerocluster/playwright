@@ -28,7 +28,7 @@
         "start": "node bin/main.js run --mode=development"
     },
     "dependencies": {
-        "@softvisio/core": "^7.101.7",
+        "@softvisio/core": "^7.132.2",
         "@softvisio/playwright": "^2.4.0"
     }
 }
