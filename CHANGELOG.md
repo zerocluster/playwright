@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.70 (2025-02-20)
+
+Other changes:
+
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.2.69...v1.2.70`](https://github.com/zerocluster/playwright/compare/v1.2.69...v1.2.70)
+
 ### 1.2.69 (2025-02-19)
 
 Other changes:
