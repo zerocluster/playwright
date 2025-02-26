@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.2.71 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.2.70...v1.2.71`](https://github.com/zerocluster/playwright/compare/v1.2.70...v1.2.71)
+
 ### 1.2.70 (2025-02-20)
 
 Other changes:
