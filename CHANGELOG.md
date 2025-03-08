@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.2.76 (2025-03-08)
+
+Other changes:
+
+- chore: fix shebang
+- chore: update package dependencies
+- chore: update package metadata
+
+Compare with the previous release: [`v1.2.75...v1.2.76`](https://github.com/zerocluster/playwright/compare/v1.2.75...v1.2.76)
+
 ### 1.2.75 (2025-03-03)
 
 Other changes:
