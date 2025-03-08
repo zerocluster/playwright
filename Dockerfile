@@ -7,4 +7,4 @@ RUN \
     && npx install-google-chrome chrome-headless-shell dependencies \
     \
     # cleanup
-    && /bin/bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
+    && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
