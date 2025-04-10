@@ -1,5 +1,14 @@
 # Changelog
 
+### 1.2.86 (2025-04-10)
+
+Other changes:
+
+- chore: rename dockerfile
+- chore: update package dependencies
+
+Compare with the previous release: [`v1.2.85...v1.2.86`](https://github.com/zerocluster/playwright/compare/v1.2.85...v1.2.86)
+
 ### 1.2.85 (2025-04-06)
 
 Other changes:
