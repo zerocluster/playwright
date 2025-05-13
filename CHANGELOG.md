@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.2.104 (2025-05-13)
+
+**Other changes:**
+
+- \[PATCH] chore: move chrome to the individual docker layer (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v1.2.103...v1.2.104`](https://github.com/zerocluster/playwright/compare/v1.2.103...v1.2.104)
+
 ### 1.2.103 (2025-05-11)
 
 **Other changes:**
