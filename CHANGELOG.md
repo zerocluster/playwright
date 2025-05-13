@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.105 (2025-05-13)
+
+**Fixes:**
+
+- \[PATCH] fix: fix dockerfile (👬 zdm)
+
+Compare with the previous release: [`v1.2.104...v1.2.105`](https://github.com/zerocluster/playwright/compare/v1.2.104...v1.2.105)
+
 ### v1.2.104 (2025-05-13)
 
 **Other changes:**
