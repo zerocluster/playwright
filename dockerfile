@@ -2,8 +2,9 @@ FROM ghcr.io/zerocluster/node/app
 
 RUN \
     # install dependencies
-    NODE_ENV=production npm install-clean \
-    \
+    NODE_ENV=production npm install-clean
+
+RUN \
     && npx install-google-chrome chrome-headless-shell dependencies \
     \
     # cleanup
