@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.2.106 (2025-05-14)
+
+**Other changes:**
+
+- \[PATCH] chore: add docker layers (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v1.2.105...v1.2.106`](https://github.com/zerocluster/playwright/compare/v1.2.105...v1.2.106)
+
 ### v1.2.105 (2025-05-13)
 
 **Fixes:**
