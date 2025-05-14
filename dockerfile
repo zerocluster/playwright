@@ -8,7 +8,15 @@ RUN \
     && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
 
 RUN \
-    npx install-google-chrome chrome-headless-shell dependencies \
+    # install chrome
+    npx install-google-chrome chrome-headless-shell \
+    \
+    # cleanup
+    && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
+
+RUN \
+    # install dependencies
+    npx install-google-chrome dependencies \
     \
     # cleanup
     && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
