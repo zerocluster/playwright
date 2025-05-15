@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.107 (2025-05-15)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v1.2.106...v1.2.107`](https://github.com/zerocluster/playwright/compare/v1.2.106...v1.2.107)
+
 ### v1.2.106 (2025-05-14)
 
 **Other changes:**
