@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.117 (2025-06-03)
+
+**Fixes:**
+
+- \[PATCH] fix: fix component schema (👬 zdm)
+
+Compare with the previous release: [v1.2.116](https://github.com/zerocluster/playwright/compare/v1.2.116...v1.2.117)
+
 ### v1.2.116 (2025-06-03)
 
 **Other changes:**
