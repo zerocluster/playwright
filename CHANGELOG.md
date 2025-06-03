@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.2.116 (2025-06-03)
+
+**Other changes:**
+
+- \[PATCH] chore: add app name (👬 zdm)
+
+- \[PATCH] chore: refactor nginx integration (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v1.2.115](https://github.com/zerocluster/playwright/compare/v1.2.115...v1.2.116)
+
 ### v1.2.115 (2025-06-01)
 
 **Other changes:**
