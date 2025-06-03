@@ -1,6 +1,7 @@
 dependencies: ~
 
-optionalDependencies: ~
+optionalDependencies:
+  - nginx
 
 config:
   port: 80
