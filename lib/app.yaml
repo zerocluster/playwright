@@ -3,7 +3,9 @@ dependencies:
 
 services: ~
 
-components: ~
+components:
+  env:
+    name: playwright
 
 config:
   port: 80
