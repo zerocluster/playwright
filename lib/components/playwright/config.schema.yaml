@@ -24,4 +24,4 @@
       required: [enabled, apiUrl, serverNames]
 
   additionalProperties: false
-  required: [port, chromePath. nginx]
+  required: [port, chromePath, nginx]
