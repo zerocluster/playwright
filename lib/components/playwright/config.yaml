@@ -1,0 +1,12 @@
+dependencies: ~
+
+optionalDependencies: ~
+
+config:
+  port: 80
+  chromePath: /chrome
+
+  nginx:
+    enabled: false
+    apiUrl: ws://nginx:81/api
+    serverNames: ~

@@ -1,12 +1,15 @@
 dependencies:
   - "@softvisio/core"
 
-services: ~
+services:
+  server:
+    components:
+      playwright: true
+
+defaultService: server
 
 components:
   env:
     name: playwright
 
-config:
-  port: 80
-  chromePath: /chrome
+config: ~
