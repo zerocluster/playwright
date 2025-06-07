@@ -2,6 +2,7 @@ dependencies: ~
 
 optionalDependencies:
   - nginx
+  - nginxUpstream
 
 config:
   port: 80
