@@ -29,6 +29,6 @@
     },
     "dependencies": {
         "@softvisio/core": "^7.101.7",
-        "@softvisio/playwright": "^2.4.0"
+        "@softvisio/playwright": "^2.10.10"
     }
 }
