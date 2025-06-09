@@ -9,6 +9,7 @@ config:
   chromePath: /chrome
 
   nginx:
-    enabled: false
+    enabled: true
     apiUrl: ws://nginx:81/api
+
     serverNames: ~
