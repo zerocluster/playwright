@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.123 (2025-06-09)
+
+**Other changes:**
+
+- \[PATCH] chore(deps): update package dependencies (👬 zdm)
+
+Compare with the previous release: [v1.2.122](https://github.com/zerocluster/playwright/compare/v1.2.122...v1.2.123)
+
 ### v1.2.122 (2025-06-09)
 
 **Other changes:**
