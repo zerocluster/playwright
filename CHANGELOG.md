@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.121 (2025-06-09)
+
+**Other changes:**
+
+- \[PATCH] chore: set nginx upstream enabled by default (👬 zdm)
+
+Compare with the previous release: [v1.2.120](https://github.com/zerocluster/playwright/compare/v1.2.120...v1.2.121)
+
 ### v1.2.120 (2025-06-09)
 
 **Other changes:**
