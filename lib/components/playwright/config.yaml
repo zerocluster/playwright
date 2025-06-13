@@ -10,4 +10,5 @@ config:
 
   nginx:
     enabled: true
+    port: ~
     serverNames: ~
