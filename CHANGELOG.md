@@ -1,5 +1,23 @@
 # Changelog
 
+### v1.3.0 (2025-06-13)
+
+**New features:**
+
+- \[MINOR] feat: add nginx upstream port (● [4afda8e](https://github.com/zerocluster/playwright/commit/4afda8e); 👬 zdm)
+
+**Refactoring:**
+
+- \[PATCH] refactor: update default config (● [75b782a](https://github.com/zerocluster/playwright/commit/75b782a); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [4f2793f](https://github.com/zerocluster/playwright/commit/4f2793f), [73406fb](https://github.com/zerocluster/playwright/commit/73406fb), [b25126c](https://github.com/zerocluster/playwright/commit/b25126c); 👬 zdm)
+
+- chore(style): update configs (● [15a7e73](https://github.com/zerocluster/playwright/commit/15a7e73); 👬 zdm)
+
+Compare with the previous release: [v1.2.125](https://github.com/zerocluster/playwright/compare/v1.2.125...v1.3.0)
+
 ### v1.2.125 (2025-06-11)
 
 **Other changes:**
