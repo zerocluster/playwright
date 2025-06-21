@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.3.2 (2025-06-21)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [a0a4042](https://github.com/zerocluster/playwright/commit/a0a4042), [2ba6142](https://github.com/zerocluster/playwright/commit/2ba6142), [65f36ff](https://github.com/zerocluster/playwright/commit/65f36ff); 👬 zdm)
+
+Compare with the previous release: [v1.3.1](https://github.com/zerocluster/playwright/compare/v1.3.1...v1.3.2)
+
 ### v1.3.1 (2025-06-17)
 
 **Other changes:**
