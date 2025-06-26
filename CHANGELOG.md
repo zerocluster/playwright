@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.3.4 (2025-06-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: fix bash invocation in scripts (● [2e5e0e7](https://github.com/zerocluster/playwright/commit/2e5e0e7); 👬 zdm)
+
+- \[PATCH] refactor: fix external bash scripts invocation (● [03bfa25](https://github.com/zerocluster/playwright/commit/03bfa25); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [c2ac760](https://github.com/zerocluster/playwright/commit/c2ac760); 👬 zdm)
+
+Compare with the previous release: [v1.3.3](https://github.com/zerocluster/playwright/compare/v1.3.3...v1.3.4)
+
 ### v1.3.3 (2025-06-25)
 
 **Other changes:**
