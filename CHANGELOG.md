@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.3.5 (2025-07-03)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [ca63f3c](https://github.com/zerocluster/playwright/commit/ca63f3c), [6b79ff7](https://github.com/zerocluster/playwright/commit/6b79ff7), [dd4f0cc](https://github.com/zerocluster/playwright/commit/dd4f0cc), [8777e10](https://github.com/zerocluster/playwright/commit/8777e10); 👬 zdm)
+
+- chore(deps): update package dependencies (● [e67658c](https://github.com/zerocluster/playwright/commit/e67658c); 👬 zdm)
+
+Compare with the previous release: [v1.3.4](https://github.com/zerocluster/playwright/compare/v1.3.4...v1.3.5)
+
 ### v1.3.4 (2025-06-26)
 
 **Code refactoring:**
