@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.3.13 (2025-07-16)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [082b524](https://github.com/zerocluster/playwright/commit/082b524); 👬 zdm)
+
+Compare with the previous release: [v1.3.12](https://github.com/zerocluster/playwright/compare/v1.3.12...v1.3.13)
+
 ### v1.3.12 (2025-07-16)
 
 **Other changes:**
