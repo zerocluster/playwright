@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.3.14 (2025-08-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [1a8da85](https://github.com/zerocluster/playwright/commit/1a8da85); 👬 zdm)
+
+- \[PATCH] fix: update editorconfig (● [7020083](https://github.com/zerocluster/playwright/commit/7020083); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [aa95ed1](https://github.com/zerocluster/playwright/commit/aa95ed1), [f023545](https://github.com/zerocluster/playwright/commit/f023545), [30fec0b](https://github.com/zerocluster/playwright/commit/30fec0b), [519978e](https://github.com/zerocluster/playwright/commit/519978e), [38e74c7](https://github.com/zerocluster/playwright/commit/38e74c7); 👬 zdm)
+
+Compare with the previous release: [v1.3.13](https://github.com/zerocluster/playwright/compare/v1.3.13...v1.3.14)
+
 ### v1.3.13 (2025-07-16)
 
 **Other changes:**
