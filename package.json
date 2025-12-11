@@ -20,7 +20,7 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@softvisio/core/*",
+        "#core/*": "@c0rejs/core/*",
         "#lib/*": "./lib/*.js",
         "#resources/*": "./resources/*"
     },
@@ -28,7 +28,7 @@
         "start": "node bin/main.js run --mode=development"
     },
     "dependencies": {
-        "@softvisio/core": "^7.101.7",
-        "@softvisio/playwright": "^2.4.0"
+        "@c0rejs/core": "^7.101.7",
+        "@c0rejs/playwright": "^2.4.0"
     }
 }
