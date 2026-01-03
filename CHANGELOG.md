@@ -1,5 +1,23 @@
 # Changelog
 
+### v1.4.0 (2026-01-03)
+
+**New features:**
+
+- \[MINOR] feat: add docker build secrets (● [1061bf8](https://github.com/zerocluster/playwright/commit/1061bf8), [720a8bd](https://github.com/zerocluster/playwright/commit/720a8bd); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [afeb495](https://github.com/zerocluster/playwright/commit/afeb495); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [4899ceb](https://github.com/zerocluster/playwright/commit/4899ceb); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [d07a037](https://github.com/zerocluster/playwright/commit/d07a037), [7cd39c8](https://github.com/zerocluster/playwright/commit/7cd39c8), [447c3c0](https://github.com/zerocluster/playwright/commit/447c3c0), [11749c7](https://github.com/zerocluster/playwright/commit/11749c7), [9fe9c5f](https://github.com/zerocluster/playwright/commit/9fe9c5f), [982f952](https://github.com/zerocluster/playwright/commit/982f952), [1a7365e](https://github.com/zerocluster/playwright/commit/1a7365e), [bc85b82](https://github.com/zerocluster/playwright/commit/bc85b82), [b55b71e](https://github.com/zerocluster/playwright/commit/b55b71e), [dea385e](https://github.com/zerocluster/playwright/commit/dea385e), [504da24](https://github.com/zerocluster/playwright/commit/504da24), [348591a](https://github.com/zerocluster/playwright/commit/348591a), [9d601ad](https://github.com/zerocluster/playwright/commit/9d601ad), [99c0d2f](https://github.com/zerocluster/playwright/commit/99c0d2f), [db76cab](https://github.com/zerocluster/playwright/commit/db76cab), [8778721](https://github.com/zerocluster/playwright/commit/8778721), [c7d98b2](https://github.com/zerocluster/playwright/commit/c7d98b2), [935881b](https://github.com/zerocluster/playwright/commit/935881b), [3e06dac](https://github.com/zerocluster/playwright/commit/3e06dac); 👬 zdm)
+
+Compare with the previous release: [v1.3.18](https://github.com/zerocluster/playwright/compare/v1.3.18...v1.4.0)
+
 ### v1.3.18 (2025-10-16)
 
 **Other changes:**
