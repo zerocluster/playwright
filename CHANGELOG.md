@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.1 (2026-01-18)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [2232219](https://github.com/zerocluster/playwright/commit/2232219); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [3adcbaa](https://github.com/zerocluster/playwright/commit/3adcbaa), [6b54706](https://github.com/zerocluster/playwright/commit/6b54706), [f3aabee](https://github.com/zerocluster/playwright/commit/f3aabee), [43cdd4b](https://github.com/zerocluster/playwright/commit/43cdd4b), [e5d4814](https://github.com/zerocluster/playwright/commit/e5d4814); 👬 zdm)
+
+Compare with the previous release: [v1.4.0](https://github.com/zerocluster/playwright/compare/v1.4.0...v1.4.1)
+
 ### v1.4.0 (2026-01-03)
 
 **New features:**
