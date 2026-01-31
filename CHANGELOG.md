@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.5 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename c0rejs namespace (● [16bf0cc](https://github.com/zerocluster/playwright/commit/16bf0cc); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [a91cec0](https://github.com/zerocluster/playwright/commit/a91cec0); 👬 zdm)
+
+Compare with the previous release: [v1.4.4](https://github.com/zerocluster/playwright/compare/v1.4.4...v1.4.5)
+
 ### v1.4.4 (2026-01-30)
 
 **Other changes:**
