@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.6 (2026-02-06)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [e3846f7](https://github.com/zerocluster/playwright/commit/e3846f7); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [8fef28b](https://github.com/zerocluster/playwright/commit/8fef28b), [f9dd737](https://github.com/zerocluster/playwright/commit/f9dd737), [5ade88b](https://github.com/zerocluster/playwright/commit/5ade88b), [1269e19](https://github.com/zerocluster/playwright/commit/1269e19), [4c5ff1f](https://github.com/zerocluster/playwright/commit/4c5ff1f); 👬 zdm)
+
+Compare with the previous release: [v1.4.5](https://github.com/zerocluster/playwright/compare/v1.4.5...v1.4.6)
+
 ### v1.4.5 (2026-01-31)
 
 **Other changes:**
