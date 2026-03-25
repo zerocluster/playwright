@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.16 (2026-03-25)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [adf08fb](https://github.com/zerocluster/playwright/commit/adf08fb); 👬 zdm)
+
+Compare with the previous release: [v1.4.15](https://github.com/zerocluster/playwright/compare/v1.4.15...v1.4.16)
+
 ### v1.4.15 (2026-03-25)
 
 **Other changes:**
