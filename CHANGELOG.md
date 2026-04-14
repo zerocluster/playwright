@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.29 (2026-04-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update dockerfile (● [b88269c](https://github.com/zerocluster/playwright/commit/b88269c); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [e20d8dd](https://github.com/zerocluster/playwright/commit/e20d8dd), [7077878](https://github.com/zerocluster/playwright/commit/7077878), [3df1089](https://github.com/zerocluster/playwright/commit/3df1089), [a52cb91](https://github.com/zerocluster/playwright/commit/a52cb91), [9301db2](https://github.com/zerocluster/playwright/commit/9301db2), [62a2f89](https://github.com/zerocluster/playwright/commit/62a2f89); 👬 zdm)
+
+Compare with the previous release: [v1.4.28](https://github.com/zerocluster/playwright/compare/v1.4.28...v1.4.29)
+
 ### v1.4.28 (2026-04-09)
 
 **Other changes:**
