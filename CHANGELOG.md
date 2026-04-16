@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.30 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile errors handler (● [7ebfd2b](https://github.com/zerocluster/playwright/commit/7ebfd2b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [a30e7ae](https://github.com/zerocluster/playwright/commit/a30e7ae); 👬 zdm)
+
+Compare with the previous release: [v1.4.29](https://github.com/zerocluster/playwright/compare/v1.4.29...v1.4.30)
+
 ### v1.4.29 (2026-04-14)
 
 **Code refactoring:**
