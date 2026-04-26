@@ -5,7 +5,7 @@ RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN \
 #!/usr/bin/env bash
 
 set -Eeuo pipefail
-trap 'echo "⚠  Error ($0:$LINENO): $BASH_COMMAND" && return 3 2> /dev/null || exit 3' ERR
+trap 'echo "⚠  Error ($0:$LINENO, exit code: $?): $BASH_COMMAND" >&2' ERR
 
 # install dependencies
 NODE_ENV=production npm install-clean
@@ -19,7 +19,7 @@ RUN <<EOF
 #!/usr/bin/env bash
 
 set -Eeuo pipefail
-trap 'echo "⚠  Error ($0:$LINENO): $BASH_COMMAND" && return 3 2> /dev/null || exit 3' ERR
+trap 'echo "⚠  Error ($0:$LINENO, exit code: $?): $BASH_COMMAND" >&2' ERR
 
 # install chrome
 npx install-google-chrome chrome-headless-shell
@@ -33,7 +33,7 @@ RUN <<EOF
 #!/usr/bin/env bash
 
 set -Eeuo pipefail
-trap 'echo "⚠  Error ($0:$LINENO): $BASH_COMMAND" && return 3 2> /dev/null || exit 3' ERR
+trap 'echo "⚠  Error ($0:$LINENO, exit code: $?): $BASH_COMMAND" >&2' ERR
 
 # install dependencies
 npx install-google-chrome dependencies
