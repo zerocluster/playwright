@@ -1,5 +1,23 @@
 # Changelog
 
+### v1.4.32 (2026-04-26)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix sh error trap (● [f94408b](https://github.com/zerocluster/playwright/commit/f94408b); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [4c42344](https://github.com/zerocluster/playwright/commit/4c42344); 👬 zdm)
+
+- \[PATCH] refactor: update sh error trap (● [4eb5585](https://github.com/zerocluster/playwright/commit/4eb5585); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [0d7b5cd](https://github.com/zerocluster/playwright/commit/0d7b5cd), [9b35899](https://github.com/zerocluster/playwright/commit/9b35899), [1c43a7f](https://github.com/zerocluster/playwright/commit/1c43a7f), [23ace8e](https://github.com/zerocluster/playwright/commit/23ace8e), [9c5163b](https://github.com/zerocluster/playwright/commit/9c5163b), [849d713](https://github.com/zerocluster/playwright/commit/849d713), [3ed5581](https://github.com/zerocluster/playwright/commit/3ed5581); 👬 zdm)
+
+Compare with the previous release: [v1.4.31...v1.4.32](https://github.com/zerocluster/playwright/compare/v1.4.31...v1.4.32)
+
 ### v1.4.31 (2026-04-20)
 
 **Other changes:**
