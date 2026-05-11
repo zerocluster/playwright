@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.34 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [766476b](https://github.com/zerocluster/playwright/commit/766476b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [d11c2eb](https://github.com/zerocluster/playwright/commit/d11c2eb), [e00c42d](https://github.com/zerocluster/playwright/commit/e00c42d), [a95b904](https://github.com/zerocluster/playwright/commit/a95b904), [09db365](https://github.com/zerocluster/playwright/commit/09db365), [2c24c28](https://github.com/zerocluster/playwright/commit/2c24c28), [c7d1dc6](https://github.com/zerocluster/playwright/commit/c7d1dc6), [f417407](https://github.com/zerocluster/playwright/commit/f417407), [80f83d1](https://github.com/zerocluster/playwright/commit/80f83d1), [8c6dbcc](https://github.com/zerocluster/playwright/commit/8c6dbcc), [fcd43fb](https://github.com/zerocluster/playwright/commit/fcd43fb), [401389b](https://github.com/zerocluster/playwright/commit/401389b), [aaa1a47](https://github.com/zerocluster/playwright/commit/aaa1a47), [083aba7](https://github.com/zerocluster/playwright/commit/083aba7), [60083fc](https://github.com/zerocluster/playwright/commit/60083fc); 👬 zdm)
+
+Compare with the previous release: [v1.4.33...v1.4.34](https://github.com/zerocluster/playwright/compare/v1.4.33...v1.4.34)
+
 ### v1.4.33 (2026-04-29)
 
 **Other changes:**
