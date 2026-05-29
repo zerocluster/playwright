@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.4.38 (2026-05-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename app service to main (● [e2eaaad](https://github.com/zerocluster/playwright/commit/e2eaaad); 👬 zdm)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [1a40c50](https://github.com/zerocluster/playwright/commit/1a40c50); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [ab9c2e5](https://github.com/zerocluster/playwright/commit/ab9c2e5), [6acd846](https://github.com/zerocluster/playwright/commit/6acd846), [2c0a2b5](https://github.com/zerocluster/playwright/commit/2c0a2b5), [21eabd6](https://github.com/zerocluster/playwright/commit/21eabd6), [f614f8c](https://github.com/zerocluster/playwright/commit/f614f8c), [42aa86b](https://github.com/zerocluster/playwright/commit/42aa86b); 👬 zdm)
+
+Compare with the previous release: [v1.4.37...v1.4.38](https://github.com/zerocluster/playwright/compare/v1.4.37...v1.4.38)
+
 ### v1.4.37 (2026-05-19)
 
 **Other changes:**
