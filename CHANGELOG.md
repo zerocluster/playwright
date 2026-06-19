@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.39 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f8269f8](https://github.com/zerocluster/playwright/commit/f8269f8), [720e19e](https://github.com/zerocluster/playwright/commit/720e19e), [d414aaf](https://github.com/zerocluster/playwright/commit/d414aaf), [e636fad](https://github.com/zerocluster/playwright/commit/e636fad), [6d55ab2](https://github.com/zerocluster/playwright/commit/6d55ab2), [2ab0448](https://github.com/zerocluster/playwright/commit/2ab0448), [99c7a1d](https://github.com/zerocluster/playwright/commit/99c7a1d), [9a8b487](https://github.com/zerocluster/playwright/commit/9a8b487), [40d3936](https://github.com/zerocluster/playwright/commit/40d3936), [99782de](https://github.com/zerocluster/playwright/commit/99782de), [1fe0f32](https://github.com/zerocluster/playwright/commit/1fe0f32), [0c3e6db](https://github.com/zerocluster/playwright/commit/0c3e6db), [2760162](https://github.com/zerocluster/playwright/commit/2760162), [cf8b5c6](https://github.com/zerocluster/playwright/commit/cf8b5c6), [06e7749](https://github.com/zerocluster/playwright/commit/06e7749), [79ffa3b](https://github.com/zerocluster/playwright/commit/79ffa3b), [ae97596](https://github.com/zerocluster/playwright/commit/ae97596), [599eea3](https://github.com/zerocluster/playwright/commit/599eea3), [ad01cf8](https://github.com/zerocluster/playwright/commit/ad01cf8); 👬 zdm)
+
+Compare with the previous release: [v1.4.38...v1.4.39](https://github.com/zerocluster/playwright/compare/v1.4.38...v1.4.39)
+
 ### v1.4.38 (2026-05-29)
 
 **Code refactoring:**
