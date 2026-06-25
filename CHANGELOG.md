@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.44 (2026-06-25)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [bead366](https://github.com/zerocluster/playwright/commit/bead366); 👬 zdm)
+
+Compare with the previous release: [v1.4.43...v1.4.44](https://github.com/zerocluster/playwright/compare/v1.4.43...v1.4.44)
+
 ### v1.4.43 (2026-06-24)
 
 **Other changes:**
