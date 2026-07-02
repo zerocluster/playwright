@@ -414,7 +414,7 @@ Compare with the previous release: [v1.4.0](https://github.com/zerocluster/playw
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [afeb495](https://github.com/zerocluster/playwright/commit/afeb495); 👬 zdm)
+- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [afeb495](https://github.com/zerocluster/playwright/commit/afeb495); 👬 zdm)
 
 **Other changes:**
 
