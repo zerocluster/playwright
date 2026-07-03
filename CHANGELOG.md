@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.46 (2026-07-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [90f5b81](https://github.com/zerocluster/playwright/commit/90f5b81); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [d0ffad3](https://github.com/zerocluster/playwright/commit/d0ffad3), [74b9867](https://github.com/zerocluster/playwright/commit/74b9867), [dec76a6](https://github.com/zerocluster/playwright/commit/dec76a6), [e7c69d3](https://github.com/zerocluster/playwright/commit/e7c69d3), [2257c4c](https://github.com/zerocluster/playwright/commit/2257c4c), [73dc3a6](https://github.com/zerocluster/playwright/commit/73dc3a6), [fdaef00](https://github.com/zerocluster/playwright/commit/fdaef00), [98ff04d](https://github.com/zerocluster/playwright/commit/98ff04d), [2b56151](https://github.com/zerocluster/playwright/commit/2b56151), [0dc7aa9](https://github.com/zerocluster/playwright/commit/0dc7aa9), [9c16fab](https://github.com/zerocluster/playwright/commit/9c16fab); 👬 zdm)
+
+Compare with the previous release: [v1.4.45...v1.4.46](https://github.com/zerocluster/playwright/compare/v1.4.45...v1.4.46)
+
 ### v1.4.45 (2026-06-25)
 
 **Other changes:**
