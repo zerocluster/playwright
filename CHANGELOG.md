@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.51 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [7a9b047](https://github.com/zerocluster/playwright/commit/7a9b047); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [b9403e0](https://github.com/zerocluster/playwright/commit/b9403e0); 👬 zdm)
+
+Compare with the previous release: [v1.4.50...v1.4.51](https://github.com/zerocluster/playwright/compare/v1.4.50...v1.4.51)
+
 ### v1.4.50 (2026-07-05)
 
 **Other changes:**
