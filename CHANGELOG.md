@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.63 (2026-07-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [c4adb86](https://github.com/zerocluster/playwright/commit/c4adb86); 👬 zdm)
+
+Compare with the previous release: [v1.4.62...v1.4.63](https://github.com/zerocluster/playwright/compare/v1.4.62...v1.4.63)
+
 ### v1.4.62 (2026-07-29)
 
 **Other changes:**
