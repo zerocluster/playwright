@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.66 (2026-08-02)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [b0da100](https://github.com/zerocluster/playwright/commit/b0da100); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [4350847](https://github.com/zerocluster/playwright/commit/4350847); 👬 zdm)
+
+Compare with the previous release: [v1.4.65...v1.4.66](https://github.com/zerocluster/playwright/compare/v1.4.65...v1.4.66)
+
 ### v1.4.65 (2026-08-01)
 
 **Other changes:**
