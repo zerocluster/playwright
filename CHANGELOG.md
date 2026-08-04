@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.70 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [67e6909](https://github.com/zerocluster/playwright/commit/67e6909), [23a63e3](https://github.com/zerocluster/playwright/commit/23a63e3), [7c7e4ad](https://github.com/zerocluster/playwright/commit/7c7e4ad); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [47cf8ad](https://github.com/zerocluster/playwright/commit/47cf8ad); 👬 zdm)
+
+Compare with the previous release: [v1.4.69...v1.4.70](https://github.com/zerocluster/playwright/compare/v1.4.69...v1.4.70)
+
 ### v1.4.69 (2026-08-04)
 
 **Other changes:**
