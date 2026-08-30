@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.78 (2026-08-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [acd741c](https://github.com/zerocluster/playwright/commit/acd741c); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [e70de83](https://github.com/zerocluster/playwright/commit/e70de83), [a6d1d48](https://github.com/zerocluster/playwright/commit/a6d1d48), [300d5c4](https://github.com/zerocluster/playwright/commit/300d5c4), [484580b](https://github.com/zerocluster/playwright/commit/484580b), [f076480](https://github.com/zerocluster/playwright/commit/f076480); 👬 zdm)
+
+Compare with the previous release: [v1.4.77...v1.4.78](https://github.com/zerocluster/playwright/compare/v1.4.77...v1.4.78)
+
 ### v1.4.77 (2026-08-27)
 
 **Other changes:**
