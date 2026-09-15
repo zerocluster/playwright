@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.86 (2026-09-15)
+
+**Other changes:**
+
+- chore: migrate to @corejslib/app (● [548df81](https://github.com/zerocluster/playwright/commit/548df81); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [4a826e9](https://github.com/zerocluster/playwright/commit/4a826e9); 👬 zdm)
+
+Compare with the previous release: [v1.4.85...v1.4.86](https://github.com/zerocluster/playwright/compare/v1.4.85...v1.4.86)
+
 ### v1.4.85 (2026-09-15)
 
 **Other changes:**
