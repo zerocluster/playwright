@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.89 (2026-09-20)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [3d7cf1c](https://github.com/zerocluster/playwright/commit/3d7cf1c), [3b74b58](https://github.com/zerocluster/playwright/commit/3b74b58), [2ce3fbd](https://github.com/zerocluster/playwright/commit/2ce3fbd), [a385e58](https://github.com/zerocluster/playwright/commit/a385e58), [d18e22b](https://github.com/zerocluster/playwright/commit/d18e22b); 👬 zdm)
+
+Compare with the previous release: [v1.4.88...v1.4.89](https://github.com/zerocluster/playwright/compare/v1.4.88...v1.4.89)
+
 ### v1.4.88 (2026-09-15)
 
 **Other changes:**
