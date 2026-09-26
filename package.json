@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/playwright",
-    "version": "1.4.91",
+    "version": "1.4.92",
     "private": true,
     "description": "Playwright service",
     "keywords": [
