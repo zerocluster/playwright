@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.95 (2026-09-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [ad36094](https://github.com/zerocluster/playwright/commit/ad36094), [31d74dc](https://github.com/zerocluster/playwright/commit/31d74dc); 👬 zdm)
+
+Compare with the previous release: [v1.4.94...v1.4.95](https://github.com/zerocluster/playwright/compare/v1.4.94...v1.4.95)
+
 ### v1.4.94 (2026-09-26)
 
 **Other changes:**
@@ -824,7 +832,7 @@ Compare with the previous release: [v1.4.0](https://github.com/zerocluster/playw
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [afeb495](https://github.com/zerocluster/playwright/commit/afeb495); 👬 zdm)
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [afeb495](https://github.com/zerocluster/playwright/commit/afeb495); 👬 zdm)
 
 **Other changes:**
 
