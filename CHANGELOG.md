@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.137 (2026-11-18)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [80f650e](https://github.com/zerocluster/playwright/commit/80f650e); 👬 zdm)
+
+Compare with the previous release: [v1.4.136...v1.4.137](https://github.com/zerocluster/playwright/compare/v1.4.136...v1.4.137)
+
 ### v1.4.136 (2026-11-18)
 
 **Other changes:**
