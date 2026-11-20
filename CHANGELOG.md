@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.139 (2026-11-20)
+
+**Bug fixes:**
+
+- \[PATCH] fix: register on nginx after app started (● [3b31ff0](https://github.com/zerocluster/playwright/commit/3b31ff0), [99aca14](https://github.com/zerocluster/playwright/commit/99aca14); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [6662a3b](https://github.com/zerocluster/playwright/commit/6662a3b), [3bba262](https://github.com/zerocluster/playwright/commit/3bba262); 👬 zdm)
+
+Compare with the previous release: [v1.4.138...v1.4.139](https://github.com/zerocluster/playwright/compare/v1.4.138...v1.4.139)
+
 ### v1.4.138 (2026-11-19)
 
 **Other changes:**
