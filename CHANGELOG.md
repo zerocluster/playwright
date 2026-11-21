@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.141 (2026-11-21)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: remove unused app configuration fields (● [9e3fd28](https://github.com/zerocluster/playwright/commit/9e3fd28); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [976643a](https://github.com/zerocluster/playwright/commit/976643a); 👬 zdm)
+
+Compare with the previous release: [v1.4.140...v1.4.141](https://github.com/zerocluster/playwright/compare/v1.4.140...v1.4.141)
+
 ### v1.4.140 (2026-11-21)
 
 **Other changes**:
