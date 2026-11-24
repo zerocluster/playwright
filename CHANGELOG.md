@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.144 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: rename app run command to start (● [53e8c16](https://github.com/zerocluster/playwright/commit/53e8c16); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [8ef285f](https://github.com/zerocluster/playwright/commit/8ef285f), [2c1e5bc](https://github.com/zerocluster/playwright/commit/2c1e5bc); 👬 zdm)
+
+Compare with the previous release: [v1.4.143...v1.4.144](https://github.com/zerocluster/playwright/compare/v1.4.143...v1.4.144)
+
 ### v1.4.143 (2026-11-22)
 
 **Other changes**:
