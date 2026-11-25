@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.145 (2026-11-25)
+
+**Bug fixes**:
+
+- \[PATCH] fix: use start command in development script (● [3cfbbe6](https://github.com/zerocluster/playwright/commit/3cfbbe6); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [38d3bf0](https://github.com/zerocluster/playwright/commit/38d3bf0); 👬 zdm)
+
+Compare with the previous release: [v1.4.144...v1.4.145](https://github.com/zerocluster/playwright/compare/v1.4.144...v1.4.145)
+
 ### v1.4.144 (2026-11-24)
 
 **Bug fixes**:
